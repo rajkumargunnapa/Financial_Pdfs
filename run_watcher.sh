@@ -9,7 +9,7 @@ if [ ! -d ".venv" ]; then
     echo "Error: Virtual environment .venv not found. Please create it first."
     exit 1
 fi
-
+#comment to git
 # Run the watcher script using the virtual environment python
 echo "Starting watcher service using virtual environment..."
 exec .venv/bin/python -u watcher.py
