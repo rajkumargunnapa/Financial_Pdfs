@@ -1,3 +1,5 @@
+"""Create Qdrant collections and store or retrieve embedded PDF page images."""
+
 import uuid
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import Distance, VectorParams, PointStruct

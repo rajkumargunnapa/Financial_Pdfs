@@ -1,3 +1,5 @@
+"""Watch the local data folder and ingest new or changed PDFs into Qdrant."""
+
 import os
 import sys
 import time

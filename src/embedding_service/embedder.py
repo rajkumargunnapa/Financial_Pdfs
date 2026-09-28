@@ -1,3 +1,5 @@
+"""Generate Gemini text and image embeddings with retries for quota limits."""
+
 import os
 import time
 import random

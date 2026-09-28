@@ -1,3 +1,4 @@
+# Dependencies for the embedding and PDF ingestion services.
 langchain
 langchain-google-genai
 langchain-groq

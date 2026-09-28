@@ -1,3 +1,5 @@
+"""Define validated request and response schemas for the generation API."""
+
 from pydantic import BaseModel, Field
 
 class QueryRequest(BaseModel):

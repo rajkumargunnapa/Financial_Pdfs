@@ -1,3 +1,4 @@
+# Local stack for Qdrant, the generation API, and the S3 ingestion worker.
 version: '3.8'
 
 services:

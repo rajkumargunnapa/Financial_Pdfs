@@ -1,3 +1,5 @@
+"""Run an interactive local RAG demo over PDF pages indexed in Qdrant."""
+
 import os
 import base64
 from dotenv import load_dotenv

@@ -1,3 +1,4 @@
+// Connect the UI to the API for health checks, questions, and PDF uploads.
 document.addEventListener('DOMContentLoaded', () => {
     // Elements - API Server Config
     const apiUrlInput = document.getElementById('api-url-input');

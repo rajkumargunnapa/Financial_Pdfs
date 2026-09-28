@@ -1,3 +1,5 @@
+"""Consume S3 notifications from SQS and ingest referenced PDFs into Qdrant."""
+
 import os
 import sys
 import json

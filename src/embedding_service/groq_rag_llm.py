@@ -1,3 +1,5 @@
+"""Answer questions using Groq's vision model and retrieved page images."""
+
 import os
 from groq import Groq
 

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Launch the S3-to-Qdrant ingestion worker with the project virtual environment.
 # Get directory of this script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 cd "$DIR"

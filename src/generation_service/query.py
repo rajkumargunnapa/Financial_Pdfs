@@ -1,3 +1,5 @@
+"""Run a financial-document RAG query from the command line."""
+
 import os
 import sys
 import argparse

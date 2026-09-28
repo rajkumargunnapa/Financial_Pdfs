@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Serve the static UI locally from the repository's UI directory.
 # Get directory of this script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 cd "$DIR"

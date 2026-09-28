@@ -1,3 +1,5 @@
+"""Answer questions using Gemini and retrieved PDF page images as context."""
+
 import os
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage

@@ -1,3 +1,5 @@
+"""Expose document upload, health, and grounded question-answering API routes."""
+
 import os
 import sys
 import urllib.request

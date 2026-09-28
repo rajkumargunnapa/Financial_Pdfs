@@ -1,3 +1,5 @@
+"""Convert PDF pages to resized images and encode them for storage or prompts."""
+
 import base64
 from io import BytesIO
 from PIL import Image

@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Start Qdrant in Docker and persist its database under qdrant_storage.
 # Ensure the qdrant_storage directory exists
 mkdir -p "$(pwd)/qdrant_storage"
 

@@ -1,3 +1,4 @@
+# Keep local secrets and Python virtual environments out of version control.
 .env
 .venv/
 venv
