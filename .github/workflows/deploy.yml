@@ -12,7 +12,7 @@ env:
 #   • Runs on GitHub-hosted runner (ubuntu-latest)
 #   • Authenticates with AWS / ECR
 #   • Builds the generation-service Docker image
-#   • Tags and pushes the image to ECR
+#   • Tags and pushes the image to ECRs
 # ──────────────────────────────────────────────────────────────────────────────
 jobs:
   Continuous-Integration:
